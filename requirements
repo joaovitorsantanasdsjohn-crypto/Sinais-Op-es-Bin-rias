@@ -1,0 +1,6 @@
+Flask
+gunicorn
+websocket-client
+pandas
+scikit-learn
+requests
